@@ -20,7 +20,7 @@ Make your changes in a new git branch:
 git checkout -b my-fix-branch main
 ```
 
-- Follow our [Coding Style](contribute/features-and-patches/code-style).
+- Follow our [Coding Style](code-style).
 - Create your patch, **including appropriate test cases and documentation**.
 - Run the test suite.
 - Commit your changes using a descriptive commit message that follows our [commit message conventions](code-style.md).
